@@ -5,6 +5,8 @@
 
 .plans-container--slider{
     justify-content: center;
+    overscroll-behavior-x: none;
+    overflow-x: hidden;
 }
 
 .main-tables-container{
