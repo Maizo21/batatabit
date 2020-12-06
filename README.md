@@ -1,1 +1,1 @@
-# batatabit
+Creada para la implementacion de diseño responsive
